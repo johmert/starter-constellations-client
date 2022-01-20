@@ -17,3 +17,5 @@ Running `npm start` will spin up a server on port 3000 that will run the React a
 The Constellations Client provides a simple front-end for a RESTful Constellations Server.
 
 ![Application preview](./app-preview.png)
+
+Small Change!
